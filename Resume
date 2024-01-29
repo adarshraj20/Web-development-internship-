@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adarsh Kumar - CV</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 20px;
+      background-color: #f5f5f5;
+    }
+    header, section, footer {
+      margin-bottom: 20px;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2, h3 {
+      color: #333;
+    }
+    p {
+      color: #555;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Adarsh Kumar</h1>
+    <p>Contact Information: adarshkrgokul@gmail.com | +91 6200957655 | Purnia, Bihar | LinkedIn: www.linkedin.com/in/adarsh-kumar-677689245</p>
+  </header>
+
+  <section>
+    <h2>Technical Skills</h2>
+    <ul>
+      <li>Python Programming</li>
+      <li>Data Analysis</li>
+      <li>Generative AI</li>
+      <li>C</li>
+      <li>C++</li>
+      <li>Linux</li>
+      <li>Basic Web Development</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Soft Skills</h2>
+    <ul>
+      <li>Observation</li>
+      <li>Decision Making</li>
+      <li>Communication</li>
+      <li>Multi-tasking</li>
+      <li>Leadership</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <h3>B.Tech in Computer Science</h3>
+    <p><strong>Vidya Vihar Institute of Technology</strong> - Ongoing (2nd year)</p>
+    
+    <h3>Intermediate</h3>
+    <p><strong>S.N.S.Y Inter College (BSEB)</strong> - Completed in 2021</p>
+
+    <h3>Matriculation</h3>
+    <p><strong>B.B.M High School (BSEB)</strong> - Completed in 2019</p>
+  </section>
+
+  <section>
+    <h2>Certifications</h2>
+    <p><strong>IBM Python 101 for Data Science</strong></p>
+    <p>Issued by - IBM | Issued on - December 23, 2023</p>
+
+    <p><strong>C Programming</strong></p>
+    <p>Issued by - Great Learning | Issued on - April 10, 2023</p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <p><strong>Library Management using C</strong></p>
+    <p><strong>AI Assistant using ChatGPT and Bard</strong></p>
+  </section>
+
+  <footer>
+    <p>Currently pursuing a B.Tech degree in Computer Science at VVIT, I am fully immersed in the ever-evolving field of technology. Proficient in Python, C, and C++, I am driven by a passion for leading technology solutions. I have my sights set on excelling in Data Science and AI. My work ethic focuses on continuous innovation, ethical practices, and a collaborative mindset, and I look forward to leveraging these skills in an internship to further expand my expertise.</p>
+  </footer>
+
+</body>
+</html>
